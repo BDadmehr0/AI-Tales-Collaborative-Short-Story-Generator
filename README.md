@@ -30,7 +30,7 @@ Welcome to **AI Tales**, an open-source project where creativity meets technolog
 
 3. **Run the project**:
    ```bash
-   python src/main.py
+   python -m src.main
    ```
 
 4. **Explore examples**:
